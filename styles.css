@@ -1,7 +1,80 @@
-.main-box {
+    #green {
     height: 150px;
     width: 100%;
     margin: 5px;
     border-radius: 10px;
-    background-color: green
+    background-color: green;
+   }
+
+   #red {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: red;
+   }
+
+   #blue {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: blue;
+   }
+
+   #orange {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: orange;
+   }
+
+   #brown {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: brown;
+   }
+
+   #black {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: black;
+   }
+
+   #violet {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: violet;
+   }
+
+   #indigo {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: indigo;
+   }
+
+   #purple {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: purple;
+   }
+
+   #white {
+    height: 150px;
+    width: 100%;
+    margin: 5px;
+    border-radius: 10px;
+    border-color: black;
+    background-color: white;
    }
